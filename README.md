@@ -44,8 +44,7 @@ npm run start
 
 **8: Visualize results on your browser**
 
-https://ipl1-by-lakhan.netlify.app/
-
+Open http://127.0.0.1:8080
 ---
 
 ## Project Structure
