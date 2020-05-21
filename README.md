@@ -21,7 +21,7 @@ https://code.visualstudio.com/download
 **4: Clone this repository**
 
 ```sh
-git clone https://gitlab.com/mountblue/propel/ipl
+git clone https://github.com/lakhanj668/PropelSchool-IPl-Project-1
 ```
 
 **5: Install npm packages**
@@ -44,7 +44,7 @@ npm run start
 
 **8: Visualize results on your browser**
 
-Open http://127.0.0.1:8080
+https://ipl1-by-lakhan.netlify.app/
 
 ---
 
@@ -54,7 +54,7 @@ Open http://127.0.0.1:8080
 
 **`ipl`**: This directory contains all your JavaScript business logic
 
-**`public`**: This directory is contains the resulting `data.json` and also the HTML and JavaScript code required to visualize the results. The static server serves the `index.html` file present in this directory
+**`public`**: This directory contains the resulting `data.json` and also the HTML and JavaScript code required to visualize the results. The static server serves the `index.html` file present in this directory
 
 **`node_modules`**: This directory is used by node and npm to store third party packages like `csvtojson` and `http-server`.
 
@@ -64,8 +64,8 @@ Open http://127.0.0.1:8080
 
 ## Problems
 
-1. Plot the total number of matches played each year. (This problem is solved).
+1. Plot the total number of matches played each year.
 2. Plot the number of matches won by each team over all the years of IPL.
 3. For the year 2016, plot the extra runs conceded by each team.
 4. For the year 2015, plot the top 10 economical bowlers along with their economy rates.
-5. Discuss a "Story" you want to tell with the given data.
+5. Discuss a "Story" you want to tell with the given data(I have done => Number of Matches won by each team in all seasons after winning the toss).
